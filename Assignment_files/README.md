@@ -1,3 +1,10 @@
+# Matplotlib Homework - Anne Niemiec (Data Analytics BootCamp); 4/17/21
+
+-Homework file:  pymaceuticals_ATN.ipynb
+-Observations:   noted in homework file (VS)
+-References: noted in homeowrk file (VS)
+-Original Data:  csv files, cheat sheet, and starter file referenced in data folder
+
 # Matplotlib Homework - The Power of Plots
 
 ## Background
